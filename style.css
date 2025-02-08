@@ -6,6 +6,7 @@
 }
 
 body{
+  background: url('bg-desktop.webp');
   background-color: #fc0075;
   width: 100%;
   height: 100vh;
