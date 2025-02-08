@@ -78,13 +78,13 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #FFF;
+  color: #cc1094;
   border-radius: 4px;
   transition: transform 0.5s;
 }
 .password:hover{
   transform: scale(1.05);
-  border-color: #FFF;
+  border-color: #f021cd;
 }
 
 .hide{
